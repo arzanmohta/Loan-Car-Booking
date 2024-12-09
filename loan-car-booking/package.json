@@ -1,0 +1,31 @@
+{
+  "name": "loan-car-booking",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "mongoose": "^8.8.4",
+    "next": "15.0.4",
+    "react": "^18.3.1",
+    "react-calendar": "^5.1.0",
+    "react-dom": "^18.3.1",
+    "react-modal": "^3.16.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-modal": "^3.16.3",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
